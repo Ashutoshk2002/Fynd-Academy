@@ -1,3 +1,3 @@
 # Fynd-Academy
 
-** Batch 10 **
+**Batch 10** 
